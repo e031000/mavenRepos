@@ -1,0 +1,9 @@
+crm\persistence\ICustomerDAO.class
+crm\business\CustomerFactory.class
+crm\persistence\CustomerDAOFactory.class
+crm\business\ICustomer.class
+crm\test\persistence\DataAccessMockTest.class
+crm\business\BCCustomer.class
+crm\persistence\CustomerDataAccessMock.class
+crm\test\business\CustomerFactoryTest.class
+crm\business\AbstractCustomer.class
